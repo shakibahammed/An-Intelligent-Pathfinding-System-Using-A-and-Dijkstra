@@ -1,4 +1,4 @@
-Project Name: An-Intelligent-Pathfinding-System-Using-A-and-Dijkstra
+Project Name: An Intelligent Pathfinding System Using A* and Dijkstra.
 An exploration into Search Algorithms and Geospatial Data Visualization
 
 Project Overview
