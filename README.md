@@ -1,4 +1,6 @@
 Project Name: An Intelligent Pathfinding System Using A* and Dijkstra.
+Colab Link: https://colab.research.google.com/drive/1n9Xt_s8R7284BzLXdhnhHX8hcAwrFIB1?usp=sharing
+
 An exploration into Search Algorithms and Geospatial Data Visualization
 
 Project Overview
@@ -48,4 +50,4 @@ Integration of real-time traffic data using APIs.
 Author
 Developed with a passion for AI and Web Engineering.
 Md Shakib Ahammed
-Colab Link: https://colab.research.google.com/drive/1n9Xt_s8R7284BzLXdhnhHX8hcAwrFIB1?usp=sharing
+
